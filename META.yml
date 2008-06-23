@@ -1,0 +1,18 @@
+---
+author:
+  - 'Ricardo Signes <rjbs@cpan.org>'
+distribution_type: module
+generated_by: 'Module::Install version 0.71'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.3.html
+  version: 1.3
+name: App-Addex-Plugin-Nobody
+no_index:
+  directory:
+    - inc
+    - t
+requires:
+  App::Addex: 0.018
+  Sub::Install: 0
+version: 0.001
