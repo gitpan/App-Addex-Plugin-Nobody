@@ -1,12 +1,14 @@
 ---
+abstract: 'automatically add a recipient that goes nowhere'
 author:
-  - 'Ricardo Signes <rjbs@cpan.org>'
+  - 'Ricardo SIGNES, C<< <rjbs@cpan.org> >>'
 distribution_type: module
 generated_by: 'Module::Install version 0.77'
 license: perl
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
   version: 1.4
+module_name: App::Addex::Plugin::Nobody
 name: App-Addex-Plugin-Nobody
 no_index:
   directory:
@@ -15,6 +17,8 @@ no_index:
 requires:
   App::Addex: 0.018
   Sub::Install: 0
+  perl: 5.6.0
 resources:
   license: http://dev.perl.org/licenses/
-version: 0.002
+  repository: http://github.com/rjbs/app-addex-plugin-nobody
+version: 0.003
