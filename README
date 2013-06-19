@@ -1,5 +1,13 @@
 
-This is a plugin for App::Addex to automatically add a "nobody" entry.  It's
-useful if you want to send mail to a bunch of bcc recipients with no actual
-addresses listed in the "to" header.
+
+This archive contains the distribution App-Addex-Plugin-Nobody,
+version 0.004:
+
+  automatically add a recipient that goes nowhere
+
+This software is copyright (c) 2008 by Ricardo SIGNES.
+
+This is free software; you can redistribute it and/or modify it under
+the same terms as the Perl 5 programming language system itself.
+
 
