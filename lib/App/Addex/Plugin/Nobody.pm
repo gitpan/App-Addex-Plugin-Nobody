@@ -3,7 +3,7 @@ use warnings;
 
 package App::Addex::Plugin::Nobody;
 {
-  $App::Addex::Plugin::Nobody::VERSION = '0.004';
+  $App::Addex::Plugin::Nobody::VERSION = '0.005';
 }
 use 5.006; # our
 use Sub::Install;
@@ -61,7 +61,7 @@ App::Addex::Plugin::Nobody - automatically add a recipient that goes nowhere
 
 =head1 VERSION
 
-version 0.004
+version 0.005
 
 =head1 DESCRIPTION
 
